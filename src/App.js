@@ -6,7 +6,10 @@ export default function App() {
     <div className="App">
       <footer className="footer">
         This project was coded by Eugenia Brunetti Ehnimb and is open-sourced on
-        <a href="https://github.com/eugesuri/weather-react-app" target="_blank">
+        <a
+          href="https://github.com/eugesuri/weather-react-app-4"
+          target="_blank"
+        >
           {" "}
           Github{" "}
         </a>{" "}
